@@ -4,7 +4,7 @@ Disclaimer: This is not an official Google product.
 
 This is an example application demonstrating how Vision API and Translation
  API can be used to create a photo album application which automatically add
- appropriate tags to uploaded photos with various languages !!!
+ appropriate tags to uploaded photos with various languages !!!!!!
 
 ## Products
 - [App Engine][1]
